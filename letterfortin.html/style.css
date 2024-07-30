@@ -1,0 +1,16 @@
+*{
+    margin: 5;
+    padding: 0;
+}
+
+body {
+    background-image: url(chibi);
+    background-repeat: no-repeat;
+    background-size: 23rem;
+    background-size: cover;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
